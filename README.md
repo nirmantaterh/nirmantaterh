@@ -26,7 +26,7 @@ FinRL-based RL agent for portfolio optimization — +10% return vs. benchmark, +
 ### 💼 Experience
 
 **Johnson & Johnson** · Data Science Intern · *Mar–Aug 2025*
-+18% accuracy on biomedical decision-support · −30% preprocessing latency · 4→5 experiments/week
++18% accuracy on biomedical decision-support · −30% preprocessing latency · 4→5 experiments/week.
 
 **Miko** · ML Engineer · *Nov 2024–Jan 2025*
 Hallucination rate 24%→19% across 5K+ interactions · 80→100 req/s · −15% error rate
