@@ -19,7 +19,7 @@ PyTorch probing classifiers surfacing latent prosodic structure in GPT-2 and BER
 97.7% recall · 96.1% accuracy on 26.7M reviews — fraud detection pipeline with BiLSTM-attention and Spark. Fine-tuned DeBERTa for trust-weighted scoring, cutting MAE by 69%.
 
 **Bitcoin Investing Assistant** · [ICIVC 2022, Springer PALO](https://link.springer.com/chapter/10.1007/978-3-031-31164-2_36)
-FinRL-based RL agent for portfolio optimization — +10% return vs. benchmark, +14% accuracy with FinBERT sentiment signals.
+FinRL-based RL agent — **69.486% return over 685 days** (May 2019–Apr 2021 backtest) with FinBERT sentiment signals integrated into the trading pipeline.
 
 ---
 
