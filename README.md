@@ -42,4 +42,4 @@ Hallucination rate 24%→19% across 5K+ interactions · 80→100 req/s · −15%
 
 **Data** — Spark · AWS SageMaker · Docker · Kubernetes · SQL · GCP
 
-**Languages** — Python · TypeScript · Scala · C++ · R
+**Languages** — Python · TypeScript · Scala · C++ · R · Django
